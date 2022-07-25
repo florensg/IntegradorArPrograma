@@ -1,4 +1,6 @@
 .row{
-    background-color: yellowgreen;
+    background-color: rgb(160, 215, 216);
+    border: solid 1px  rgb(152, 152, 152);
+    border-radius: 10px;
     margin: 0;
 }

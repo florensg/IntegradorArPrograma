@@ -1,5 +1,6 @@
 div{
-    background-color:aquamarine ;
+    border: solid 1px  rgb(152, 152, 152);
+    border-radius: 10px;
 }
 img{
     max-width: 100%;

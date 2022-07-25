@@ -1,6 +1,6 @@
 div{
-    background-color: blueviolet;
-    border: solid 1px black;
+    border: solid 1px rgb(152, 152, 152);
+    background-color: rgb(160, 215, 216);
     border-radius: 15px; 
     margin:0
 }
