@@ -1,0 +1,14 @@
+.row{
+    padding: 15px;
+    margin: 0;
+}
+div{
+    background-color: rgb(160, 215, 216);
+}
+
+#nombre{
+    font-weight: bold;
+}
+#fotoCV{
+    border-radius: 100%;
+}
