@@ -6,7 +6,7 @@ import org.springframework.security.core.GrantedAuthority;
 public class JwtDto {
 
     private String token;
-    private String nearer = "Bearer";
+    private String bearer = "Bearer";
     private String nombreUsuario;
     private Collection<? extends GrantedAuthority> authorities;
 
@@ -25,11 +25,11 @@ public class JwtDto {
     }
 
     public String getNearer() {
-        return nearer;
+        return bearer;
     }
 
     public void setNearer(String nearer) {
-        this.nearer = nearer;
+        this.bearer = nearer;
     }
 
     public String getNombreUsuario() {
